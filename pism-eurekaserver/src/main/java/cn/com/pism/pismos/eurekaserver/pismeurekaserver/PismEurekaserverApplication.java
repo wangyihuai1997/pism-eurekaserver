@@ -1,4 +1,4 @@
-package cn.com.pism.pism.eurekaserver.pismeurekaserver;
+package cn.com.pism.pismos.eurekaserver.pismeurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
